@@ -1,0 +1,380 @@
+# depslib dependency file v1.0
+1621861502 source:l:\i курс\А-1-20\aristarkhov\lab04\lab04\histogram.cpp
+	<vector>
+	<iostream>
+	"histogram.h"
+
+1621861582 l:\i курс\А-1-20\aristarkhov\lab04\lab04\histogram.h
+	<vector>
+
+1619438868 source:l:\i курс\А-1-20\aristarkhov\lab04\lab04\svg.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1621861502 source:l:\i курс\А-1-20\aristarkhov\lab04\lab04\main.cpp
+	"histogram.h"
+	"svg.h"
+	<iostream>
+	<sstream>
+	<vector>
+	<string>
+	<curl/curl.h>
+	<windows.h>
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"typecheck-gcc.h"
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\curlver.h
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\easy.h
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\multi.h
+	"curl.h"
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\urlapi.h
+	"curl.h"
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\options.h
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\typecheck-gcc.h
+
+1621861607 l:\i курс\А-1-20\aristarkhov\lab04\lab04\svg.h
+	<vector>
+	<string>
+
+1621861504 source:c:\users\Константин\desktop\Институт\aristarkhov\lab04\lab04\histogram.cpp
+	<vector>
+	<iostream>
+	"histogram.h"
+
+1623831659 c:\users\Константин\desktop\Институт\aristarkhov\lab04\lab04\histogram.h
+	<vector>
+
+1621861504 source:c:\users\Константин\desktop\Институт\aristarkhov\lab04\lab04\main.cpp
+	"histogram.h"
+	"svg.h"
+	<iostream>
+	<sstream>
+	<vector>
+	<string>
+	<curl/curl.h>
+	<windows.h>
+
+1623831659 c:\users\Константин\desktop\Институт\aristarkhov\lab04\lab04\svg.h
+	<vector>
+	<string>
+
+1619442996 c:\users\Константин\desktop\Институт\aristarkhov\lab04\lab04\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"typecheck-gcc.h"
+
+1619442996 c:\users\Константин\desktop\Институт\aristarkhov\lab04\lab04\curl\include\curl\curlver.h
+
+1619442996 c:\users\Константин\desktop\Институт\aristarkhov\lab04\lab04\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1619442996 c:\users\Константин\desktop\Институт\aristarkhov\lab04\lab04\curl\include\curl\easy.h
+
+1619442996 c:\users\Константин\desktop\Институт\aristarkhov\lab04\lab04\curl\include\curl\multi.h
+	"curl.h"
+
+1619442996 c:\users\Константин\desktop\Институт\aristarkhov\lab04\lab04\curl\include\curl\urlapi.h
+	"curl.h"
+
+1619442996 c:\users\Константин\desktop\Институт\aristarkhov\lab04\lab04\curl\include\curl\options.h
+
+1619442996 c:\users\Константин\desktop\Институт\aristarkhov\lab04\lab04\curl\include\curl\typecheck-gcc.h
+
+1621861544 source:c:\users\Константин\desktop\Институт\aristarkhov\lab04\lab04\svg.cpp
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	"InfoText.h"
+
+1621861730 c:\users\Константин\desktop\Институт\aristarkhov\lab04\lab04\infotext.h
+
+1621861504 source:c:\users\Константин\desktop\Институт\Информ\aristarkhov\lab04\lab04\histogram.cpp
+	<vector>
+	<iostream>
+	"histogram.h"
+
+1623831659 c:\users\Константин\desktop\Институт\Информ\aristarkhov\lab04\lab04\histogram.h
+	<vector>
+
+1621861504 source:c:\users\Константин\desktop\Институт\Информ\aristarkhov\lab04\lab04\main.cpp
+	"histogram.h"
+	"svg.h"
+	<iostream>
+	<sstream>
+	<vector>
+	<string>
+	<curl/curl.h>
+	<windows.h>
+
+1623831659 c:\users\Константин\desktop\Институт\Информ\aristarkhov\lab04\lab04\svg.h
+	<vector>
+	<string>
+
+1619442996 c:\users\Константин\desktop\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"typecheck-gcc.h"
+
+1619442996 c:\users\Константин\desktop\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\curlver.h
+
+1619442996 c:\users\Константин\desktop\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1619442996 c:\users\Константин\desktop\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\easy.h
+
+1619442996 c:\users\Константин\desktop\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\multi.h
+	"curl.h"
+
+1619442996 c:\users\Константин\desktop\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\urlapi.h
+	"curl.h"
+
+1619442996 c:\users\Константин\desktop\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\options.h
+
+1619442996 c:\users\Константин\desktop\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\typecheck-gcc.h
+
+1621861544 source:c:\users\Константин\desktop\Институт\Информ\aristarkhov\lab04\lab04\svg.cpp
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	"InfoText.h"
+
+1621861730 c:\users\Константин\desktop\Институт\Информ\aristarkhov\lab04\lab04\infotext.h
+
+1625133786 source:c:\users\Константин\desktop\Институт\Информ\aristarkhov\lab04\lab04\infotext.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<sstream>
+
+1621861504 source:c:\users\arcos\onedrive\Рабочий стол\Институт\Информ\aristarkhov\lab04\lab04\histogram.cpp
+	<vector>
+	<iostream>
+	"histogram.h"
+
+1623831660 c:\users\arcos\onedrive\Рабочий стол\Институт\Информ\aristarkhov\lab04\lab04\histogram.h
+	<vector>
+
+1625133788 source:c:\users\arcos\onedrive\Рабочий стол\Институт\Информ\aristarkhov\lab04\lab04\infotext.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<sstream>
+
+1621861504 source:c:\users\arcos\onedrive\Рабочий стол\Институт\Информ\aristarkhov\lab04\lab04\main.cpp
+	"histogram.h"
+	"svg.h"
+	<iostream>
+	<sstream>
+	<vector>
+	<string>
+	<curl/curl.h>
+	<windows.h>
+
+1623831660 c:\users\arcos\onedrive\Рабочий стол\Институт\Информ\aristarkhov\lab04\lab04\svg.h
+	<vector>
+	<string>
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"typecheck-gcc.h"
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\curlver.h
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\easy.h
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\multi.h
+	"curl.h"
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\urlapi.h
+	"curl.h"
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\options.h
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\Институт\Информ\aristarkhov\lab04\lab04\curl\include\curl\typecheck-gcc.h
+
+1621861544 source:c:\users\arcos\onedrive\Рабочий стол\Институт\Информ\aristarkhov\lab04\lab04\svg.cpp
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	"InfoText.h"
+
+1621861730 c:\users\arcos\onedrive\Рабочий стол\Институт\Информ\aristarkhov\lab04\lab04\infotext.h
+
+1621861504 source:c:\users\arcos\onedrive\Рабочий стол\МЭИ\Информ\aristarkhov\lab04\lab04\histogram.cpp
+	<vector>
+	<iostream>
+	"histogram.h"
+
+1623831660 c:\users\arcos\onedrive\Рабочий стол\МЭИ\Информ\aristarkhov\lab04\lab04\histogram.h
+	<vector>
+
+1625133788 source:c:\users\arcos\onedrive\Рабочий стол\МЭИ\Информ\aristarkhov\lab04\lab04\infotext.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<sstream>
+
+1632132542 source:c:\users\arcos\onedrive\Рабочий стол\МЭИ\Информ\aristarkhov\lab04\lab04\main.cpp
+	"histogram.h"
+	"svg.h"
+	<iostream>
+	<sstream>
+	<vector>
+	<string>
+	"curl/curl.h"
+	<windows.h>
+
+1623831660 c:\users\arcos\onedrive\Рабочий стол\МЭИ\Информ\aristarkhov\lab04\lab04\svg.h
+	<vector>
+	<string>
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\МЭИ\Информ\aristarkhov\lab04\lab04\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"typecheck-gcc.h"
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\МЭИ\Информ\aristarkhov\lab04\lab04\curl\include\curl\curlver.h
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\МЭИ\Информ\aristarkhov\lab04\lab04\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\МЭИ\Информ\aristarkhov\lab04\lab04\curl\include\curl\easy.h
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\МЭИ\Информ\aristarkhov\lab04\lab04\curl\include\curl\multi.h
+	"curl.h"
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\МЭИ\Информ\aristarkhov\lab04\lab04\curl\include\curl\urlapi.h
+	"curl.h"
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\МЭИ\Информ\aristarkhov\lab04\lab04\curl\include\curl\options.h
+
+1619442996 c:\users\arcos\onedrive\Рабочий стол\МЭИ\Информ\aristarkhov\lab04\lab04\curl\include\curl\typecheck-gcc.h
+
+1621861544 source:c:\users\arcos\onedrive\Рабочий стол\МЭИ\Информ\aristarkhov\lab04\lab04\svg.cpp
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	"InfoText.h"
+
+1621861730 c:\users\arcos\onedrive\Рабочий стол\МЭИ\Информ\aristarkhov\lab04\lab04\infotext.h
+
